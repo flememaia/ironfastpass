@@ -48,8 +48,8 @@ Rafael Alves - webdev student
 
 ## Find out more about this project
 
-[here!](https://docs.google.com/presentation/d/1xYV5k6db3AJXlm1qGQLu8ZO6sqHlRimxfk-chHWBCi4/edit#slide=id.ge690eb1d7b_0_261)
+[here!](https://docs.google.com/presentation/d/1RWfJkCb_HCIK9nnYw_Uc6VmvsCb8juOoeNC-dgK_6GE/edit#slide=id.ge6a94418b3_0_144)
 
 server: https://github.com/flememaia/iron_fast_pass_backend.git
-front: https://github.com/flememaia/iron_fast_pass_front.git
+front: https://github.com/flememaia/ironFastPass_client.git
 
